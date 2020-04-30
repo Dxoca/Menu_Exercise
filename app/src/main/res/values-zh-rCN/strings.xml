@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">一言</string>
+    <string name="setting">设置</string>
+    <string name="history">历史</string>
+    <string name="update">更新</string>
+    <string name="form">——{寒光}</string>
+    <string name="hitokoto">Hello  World</string>
+    <string name="letf_sign">"『 "</string>
+    <string name="right_sign">" 』"</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Hitokoto</string>
+    <string name="setting">Setting</string>
+    <string name="history">History</string>
+    <string name="update">Update</string>
+    <string name="form">——{From}</string>
+    <string name="hitokoto">Hello World</string>
+    <string name="letf_sign">"『 "</string>
+    <string name="right_sign">』</string>
+</resources>
